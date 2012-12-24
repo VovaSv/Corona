@@ -2,3 +2,5 @@
 > table.sort(t)            -- sort will be limited by user size
 > = table.concat(t, ", ")  -- only specified size is concatenated as well
 da da d a ad 
+slavik poz
+
